@@ -12,7 +12,7 @@ Demo 2：https://fireworks.nianbroken.top/
 
 展示图
 
-![静态图](https://cdn.jsdelivr.net/gh/NianBroken/Firework_Simulator/Image%20Preview.png)
+![静态图](https://cdn.jsdelivr.net/gh/NianBroken/Firework_Simulator/Image_Preview.png)
 
 ------
 
