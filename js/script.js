@@ -1133,10 +1133,10 @@ function handlePointerStart(event) {
 			togglePause();
 			return;
 		}
-		if (event.x > mainStage.width/2 - btnSize/2 && event.x < mainStage.width/2 + btnSize/2) {
-			toggleSound();
-			return;
-		}
+		// if (event.x > mainStage.width/2 - btnSize/2 && event.x < mainStage.width/2 + btnSize/2) {
+		// 	toggleSound();
+		// 	return;
+		// }
 		if (event.x > mainStage.width - btnSize) {
 			toggleMenu();
 			return;
