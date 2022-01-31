@@ -17,4 +17,3 @@ Demo 2：https://fireworks.nianbroken.top/
 ------
 
 若有翻译错译或其他问题，请在`Issues`提交。
-
